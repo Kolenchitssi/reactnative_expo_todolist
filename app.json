@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "todo_listcom.example.projectname"
     },
     "web": {
       "favicon": "./assets/favicon.png"
